@@ -8,3 +8,5 @@ Ymnets.net框架/SysHelper/Upload接口 文件上传漏洞
 python .\Ymnetsupload.py -u http://www.xxx.com      #单个url检测
 
 python .\Ymnetsupload.py -l 目标文件地址            #批量检测
+
+结果导出地址为同目录下的result.txt
